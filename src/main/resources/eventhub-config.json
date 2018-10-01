@@ -1,0 +1,16 @@
+{
+  "nameSpace" : "-- Even Hub NameSpace --",
+  "name": "-- Event Hub Name --",
+  "storageConnectionString" : "-- Storage Conn String --",
+  "storageContainerName" : "-- Storage container name --",
+  "consumerGroup": "$Default",
+  "sender" : {
+    "keyName" : "--SAS Key Name --",
+    "key": "-- SAS KEY --"
+  },
+  "listener" : {
+    "keyName" : "--SAS Key Name --",
+    "key": "-- SAS KEY --"
+  }
+
+}
